@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string name="app_name">المساحة</string>
+        <string name="clear">مسح</string>
+        <string name="calc">حساب</string>
+        <string name="triangle_area">مساحة مثلث</string>
+        <string name="fadan_to_meter_2">فدان إلى متر مربع</string>
+        <string name="meter_2_to_fadan">متر مربع إلى فدان</string>
+        <string name="fadan">فدان</string>
+        <string name="karat">قيراط</string>
+        <string name="sahm">سهم</string>
+        <string name="meter">متر</string>
+        <string name="current_plus_previuos">الحالي + السابق</string>
+        <string name="first_distance">الضلع الأول</string>
+        <string name="sec_distance">الضلع الثاني</string>
+        <string name="third_distance">الضلع الثالث</string>
+        <string name = "invailed_triangle">مثلث غير صالح</string>
+        <string name="area">المساحة</string>
+        <string name="convert">تحويل</string>
+        <string name="imp">استيراد</string>
+        <string name="not_value_found">لا يوجد قيمة</string>
+        <string name="copyright_mahmoud_mousa">حقوق النشر © محمود موسى</string>
+
+
+</resources>

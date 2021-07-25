@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Area</string>
+    <string name="clear">Clear</string>
+    <string name="calc">calc</string>
+    <string name="triangle_area">Triangle Area</string>
+    <string name="fadan_to_meter_2">Fadan to meter(2)</string>
+    <string name="meter_2_to_fadan">meter(2) to Fadan</string>
+    <string name="fadan">Fadan</string>
+    <string name="karat">karat</string>
+    <string name="sahm">Sahm</string>
+    <string name="meter">Meter</string>
+    <string name="current_plus_previuos">Current + Previuos</string>
+    <string name="first_distance">First Distance</string>
+    <string name="sec_distance">Second Distance</string>
+    <string name="third_distance">Third Distance</string>
+    <string name = "invailed_triangle">Invailed Triangle</string>
+    <string name="area">Area</string>
+    <string name="convert">Convert</string>
+    <string name="imp">Import</string>
+    <string name="not_value_found">Not value found</string>
+    <string name="copyright_mahmoud_mousa">Copyright © Mahmoud Mousa</string>
+</resources>
